@@ -1,6 +1,6 @@
 #Clase 4
-##Bioinformática
-##Datos personales
+## Bioinformática
+## Datos personales
 - Ignacio Carranco
 - 24 años de edad
 - Biotecnología
